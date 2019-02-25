@@ -10,7 +10,8 @@ TODO:
     Inner Circle of people,
     Outer Circle of people,
     
-    Trait generation
+    Trait generation:
+        excluding traits
     
     City Generation:
         Name generator
