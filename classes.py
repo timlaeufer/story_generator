@@ -46,13 +46,6 @@ class NPC:
             self.amount_of_npc += 1
         self.relations = relations
         
-        
-class Relation:
-    """A relation between two npcs"""
-    def __init__(self):
-        pass
-    
-    
 class City:
     amount_of_cities = 0
     def __init__(self, name = None):
